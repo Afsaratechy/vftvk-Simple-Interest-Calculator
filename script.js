@@ -33,7 +33,7 @@ function simpleInterset() {
         /* year calculation */
 
         let inYear = new Date().getFullYear();
-        inYear += termOfLoan
+        inYear = inYear + termOfLoan
 
         /* end year calculation */
 
