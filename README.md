@@ -1,1 +1,0 @@
-# vftvk-Simple-Interest-Calculator
