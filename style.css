@@ -1,0 +1,61 @@
+body {
+    background: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    padding: 1em;
+    background: #ffff;
+    border-radius: 2em;
+}
+
+h1 {
+    color: #616A6B;
+    font-size: 6vw;
+}
+
+#simpleInt {
+    margin-left: 4em;
+}
+
+form {
+    position: relative;
+}
+
+form label {
+    padding-left: 4em;
+    padding-right: 4em
+}
+
+form label[for="intrest"] {
+    padding-right: 2.1em;
+}
+
+form label[for="years"] {
+    margin-right: -25px;
+}
+
+button {
+    position: absolute;
+    bottom: -11px;
+    margin-top: 5px;
+    margin-left: 5em;
+    font-size: 12px;
+}
+
+#copy {
+    position: relative;
+    bottom: 0px;
+}
+
+#totalInt {
+    margin-top: 2em;
+}
+
+div #totalInt {
+    margin-left: 4em;
+}
